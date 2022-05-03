@@ -1,6 +1,6 @@
 # Owid-Covid-Analysis
 Our World in Data - Covid Analysis
-<h2> Day 1 </h2>
+<h2> Configuration and Installation </h2>
 <ul> 
   <li> Configure SQL server for Mac (Intel Chip) </li>
      <ul>
@@ -54,3 +54,6 @@ Our World in Data - Covid Analysis
   </ul>
   
   </ul>
+ 
+ 
+  
